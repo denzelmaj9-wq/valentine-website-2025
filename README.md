@@ -101,7 +101,7 @@ questions: {
         text: "Do you like me?",                   // First question
         yesBtn: "Yes",                             // Yes button text
         noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        secretAnswer: "I don't like you, I LOVE you! ❤️"  // Hidden message
     },
     second: {
         text: "How much do you love me?",          // Second question
