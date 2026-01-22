@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "You are the most perfect and beautiful girl in the world, and I am forever happy to have you in my life👥 (notonsumcalm)",
         message: "This is the first of many Valentine's Days that we will have, and even though we aren't right by each other, I know that our love is just as strong",
-        emojis: "🎁🫰🏾🤗💝🫶🏾❤️🐃"  // These will bounce around
+        emojis: "🦄🫰🏾🤗💝🫶🏾❤️🐃"  // These will bounce around
     },
 
     // Color scheme for the website
