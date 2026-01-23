@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Hawaaaaaa",
+    valentineName: "Hawaaa",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -28,12 +28,12 @@ const CONFIG = {
             secretAnswer: "I don't like you, I LOVE you! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
+            text: "If you had to pick an amount, Hawasteph, how much would you say we love each other?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Will you perchance be my Valentine on February 14th, 2025? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -50,8 +50,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "You are the most perfect and beautiful girl in the world, and I am forever happy to have you in my life👥 (notonsumcalm)",
-        message: "This is the first of many Valentine's Days that we will have, and even though we aren't right by each other, I know that our love is just as strong",
-        emojis: "🦄🫰🏾🤗💝🫶🏾❤️🐃"  // These will bounce around
+        message: "This is the first of many Valentine's Days that we will have, and even though we aren't right by each other, I know that our love is just as strong.",
+        emojis: "🦄🫰🏾🫶🏾❤️🐃"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -69,7 +69,7 @@ const CONFIG = {
     animations: {
         floatDuration: "15s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
-        bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
+        bounceSpeed: "0.3s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
