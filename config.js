@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "I feel the exact same way!!!! Wait, scratch that 100 times more!!! -as we both know🫶🏾-",  // Shows when they go past 5000%
+        extreme: "I feel the exact same way, lovely lady‼️ Wait, scratch that 100 times more! -as we both know😁-",  // Shows when they go past 5000%
         high: "wowza lovely lady I love you even MOREEEE",              // Shows when they go past 1000%
         normal: "Hey, we can move that ALOTTT more Hawasteph😼"                           // Shows when they go past 100%
     },
